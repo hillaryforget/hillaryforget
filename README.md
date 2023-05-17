@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a freelance project using **Wordpress** (hence the low git activity, I am still very busy coding) I am enjoying learning the different ways Dev Wordpress can be used!
 
-- 🌱 I’m currently learning **C#** and **Swift** for another project I will be sharing soon! 
+- 🌱 I’m currently learning **C#** and **Swift IOS** for another project I will be sharing soon! 
 
 - 📝 I regularly write articles on [https://medium.com/@hillaryforget](https://medium.com/@hillaryforget)
 
