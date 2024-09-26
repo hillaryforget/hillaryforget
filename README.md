@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hillaryforget" alt="hillaryforget" /></a> </p>
 
-- 🔭 I’m currently working on a freelance project using **Wordpress** (hence the low git activity, I am still very busy coding) I am enjoying learning the different ways Dev Wordpress can be used!
+- 🔭 I’m currently working on a freelance project using **Wordpress**!
 
-- 🌱 I’m currently learning **C#** and **Swift IOS** for another project I will be sharing soon! 
+- 🌱 I’m currently practicing **PHP** 
 
 - 📝 I regularly write articles on [https://medium.com/@hillaryforget](https://medium.com/@hillaryforget)
 
-- 💬 Ask me about **creative design**
+- 💬 Ask me about **boosting SEO**
 
 - 📫 How to reach me **hillaryforget@outlook.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/lv3sf63vjk](https://flowcv.com/resume/lv3sf63vjk)
+- 📄 Know about my experiences [[https://flowcv.com/resume/lv3sf63vjk](https://flowcv.com/resume/lv3sf63vjk)](https://flowcv.com/resume/628kq7uvw5)
 
 - ⚡ Fun fact **I do a really good Christopher Walken impression**
 
